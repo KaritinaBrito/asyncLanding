@@ -1,0 +1,22 @@
+{
+  "name": "asynclanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaritinaBrito/asyncLanding.git"
+  },
+  "author": "Karen Brito <savaraguz@.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaritinaBrito/asyncLanding/issues"
+  },
+  "homepage": "https://github.com/KaritinaBrito/asyncLanding#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
